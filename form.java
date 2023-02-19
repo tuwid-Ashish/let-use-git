@@ -9,7 +9,7 @@ public class form {
      int a = 12 ;
      int b = 34 ;
      int sum = a + b;
-    System.out.println(sum);     
+    System.out.println("the simple sum = " + sum);     
     }
 
 }
